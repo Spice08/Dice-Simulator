@@ -21,3 +21,19 @@ For the dice roll simulation program to run successfully and for building up GUI
 
 If its not already installed on your system then use the pip package manager and type the following :
 `pip install tk`
+
+### Info about Tkinter
+
+Using the Tkinter Library in Python for Drawing Dice
+
+Python offers various packages to design the Graphical User Interface. Tkinter is the most popular, common, faster, and easy to use Python package used to build GUI applications.
+
+It provides a powerful Object-Oriented Interface and is easy to use. Also, you develop an application; you can use it on any platform, which reduces the need of amendments required to use an app on Windows, Mac, or Linux.
+Current Time 0:26
+/
+Duration 1:45
+ 
+
+This framework provides Python users with a simple way to create GUI elements using the widgets found in the Tk toolkit.
+
+Tk widgets can be used to construct buttons, menus, data fields, etc. in a Python application.
