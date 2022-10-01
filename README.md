@@ -19,5 +19,5 @@ For the dice roll simulation program to run successfully and for building up GUI
 
 ### Module not found solution
 
-If its not already installed on your system the use the pip package manager and type the following :
+If its not already installed on your system then use the pip package manager and type the following :
 `pip install tk`
