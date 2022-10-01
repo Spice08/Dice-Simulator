@@ -1,4 +1,5 @@
-import the required libraries
+#import the required libraries
+#because of this comment maybe the error was approaching
 #tkinter library to create GUI
 #random library because we're randomly selecting numbers
 from tkinter import *
