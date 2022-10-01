@@ -14,3 +14,10 @@ The Dice Roll Simulation can be done by choosing a random integer between 1 and 
 Logic will be same and the tkinter gui modules will be used here.
 
 ![GUI](https://user-images.githubusercontent.com/92037940/193423257-66cfd0bb-aeb4-4cf3-90a4-395eff4c9174.png)
+
+For the dice roll simulation program to run successfully and for building up GUI, you must import the python tkinter library.
+
+### Module not found solution
+
+If its not already installed on your system the use the pip package manager and type the following :
+`pip install tk`
