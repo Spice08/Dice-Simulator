@@ -37,3 +37,12 @@ Duration 1:45
 This framework provides Python users with a simple way to create GUI elements using the widgets found in the Tk toolkit.
 
 Tk widgets can be used to construct buttons, menus, data fields, etc. in a Python application.
+
+### Project File Structure
+
+First, let’s look into the dice rolling simulator python program overview:
+
+    1. Import the random and tkinter modules.
+    2. Create the GUI.
+    3. Create the dice roll function and the button.
+    4. Call the GUI.
